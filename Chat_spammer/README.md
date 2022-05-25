@@ -20,12 +20,19 @@ number of text: 1
 speed: 0.1
 "
 
-# press the chat box
+press the chat box
 
-Output(Whatsapp chat):
+-- Output(Whatsapp chat):
+
+
 example
+\n
 text
+\n
 for
+\n
 testing
+\n
 this
+\n
 script

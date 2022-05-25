@@ -26,13 +26,13 @@ press the chat box
 
 
 example
-\n
+
 text
-\n
+
 for
-\n
+
 testing
-\n
+
 this
-\n
+
 script
